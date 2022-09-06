@@ -1,6 +1,6 @@
 # How to map an OVH domain name to a Netlify project
 
-This tutoral is a personal memo to remind to myself how to link a domain name host by OVH (which is the case when it is bought through the OVH domain purshase webpage) to a Netlify project. I published it so that it can be helpful to others.
+This tutorial is a personal memo to remind to myself how to link a domain name host by OVH (which is the case when it is bought through the OVH domain purshase webpage) to a Netlify project. I published it so that it can be helpful to others.
 
 ## Introduction
 
